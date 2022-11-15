@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://fazhanltd-la.github.io//la_blog/sitemap.xml
